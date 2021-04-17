@@ -1,0 +1,74 @@
+*{
+	margin:auto;
+	padding:auto;
+}
+
+
+
+
+body {  
+	
+	  background: #C5E1A5; 
+	
+	}
+	
+	 
+
+
+.top{
+	width:100%;
+	background-color:goldenrod !important;
+	
+}
+.top div{
+	width:1200px;
+	color:#fff;
+	background-color:goldenrod !important;
+	font-family:calibri;
+	padding:10px;
+	text-align:right;
+}
+
+.logo{
+	width:100%;
+	background-color:;
+	
+}
+.logo div{
+	width:1200px;
+	background-color:;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
+}
+.logo div table a{
+	padding:10px;
+	text-decoration:none;
+	background: #E0EAFC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+.logo div table a:hover{
+	color:white;
+	border-bottom:2px solid white;
+}
+
+.middle{
+	width:100%;
+	border-bottom:2px solid white;
+	font-weight: bold;
+}
+.middle div{
+	width:1200px;
+	height:400px;
+	
+	font-family:calibri;
+}
+
+
+
+
+
